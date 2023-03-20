@@ -1,7 +1,22 @@
 <center> <h1>HBNB - The Console</h1> </center>
 
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
-
+copied by TIJANI AKINYEMI
+0x02. AirBnB clone - MySQL
+Group project
+Python
+OOP
+Back-end
+SQL
+MySQL
+ORM
+SQLAlchemy
+ By: Guillaume
+ Weight: 2
+ Project to be done in teams of 2 people (your team: Akinyemi Tijani )
+ Project will start Mar 17, 2023 6:00 AM, must end by Mar 23, 2023 6:00 AM
+ Checker was released at Mar 18, 2023 6:00 PM
+ An auto review will be launched at the deadline
 ---
 
 <center><h3>Repository Contents by Project Task</h3> </center>
